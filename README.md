@@ -1,2 +1,2 @@
 # ProdigyInfotech_WP_02
-Stopwatch
+This website features a functional stopwatch application built with HTML, CSS, and JavaScript. Users can start, stop, and reset the timer, as well as record lap times. The interface is designed with Bootstrap for a clean, responsive layout. Additionally, the footer dynamically displays the current year, ensuring up-to-date information. Ideal for timing activities, workouts, or any event requiring precise time tracking.
